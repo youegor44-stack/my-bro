@@ -1,3 +1,4 @@
 *.json
 !omega.html
 !server.py
+!.gitignore
