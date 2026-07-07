@@ -1,0 +1,57 @@
+{
+    "o_y": {
+        "user1": "o",
+        "user2": "y",
+        "last_seen": 1783410345473
+    },
+    "deepseek_t": {
+        "user1": "t",
+        "user2": "deepseek",
+        "last_seen": 1783433088
+    },
+    "deepseek_h": {
+        "user1": "h",
+        "user2": "deepseek",
+        "last_seen": 1783433088
+    },
+    "gemini_suncat": {
+        "user1": "suncat",
+        "user2": "gemini",
+        "last_seen": 1783434326
+    },
+    "gemini_t": {
+        "user1": "t",
+        "user2": "gemini",
+        "last_seen": 1783434326
+    },
+    "gemini_h": {
+        "user1": "h",
+        "user2": "gemini",
+        "last_seen": 1783434326
+    },
+    "deepseek_gemini": {
+        "user1": "deepseek",
+        "user2": "gemini",
+        "last_seen": 1783434326
+    },
+    "gemini_ikbab": {
+        "user1": "ikbab",
+        "user2": "gemini",
+        "last_seen": 1783439950
+    },
+    "ikbab_suncat": {
+        "user1": "ikbab",
+        "user2": "suncat",
+        "last_seen": 1783439981
+    },
+    "gemini_zero": {
+        "user1": "zero",
+        "user2": "gemini",
+        "last_seen": 1783440607
+    },
+    "suncat_zero": {
+        "user1": "suncat",
+        "user2": "zero",
+        "last_seen": 1783440887
+    }
+}

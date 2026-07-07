@@ -1,0 +1,11 @@
+{
+    "suncat_t": {
+        "blocked_by": "suncat"
+    },
+    "admin_suncat": {
+        "blocked_by": "suncat"
+    },
+    "suncat_test": {
+        "blocked_by": "suncat"
+    }
+}

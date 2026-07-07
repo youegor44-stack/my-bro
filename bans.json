@@ -1,0 +1,8 @@
+{
+    "admin_suncat": {
+        "banned": [
+            "admin"
+        ],
+        "muted": []
+    }
+}
