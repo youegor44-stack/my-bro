@@ -1,0 +1,3 @@
+*.json
+!omega.html
+!server.py
